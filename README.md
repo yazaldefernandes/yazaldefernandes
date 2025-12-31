@@ -1,4 +1,4 @@
-# Hi, I'm Yazalde 👋
+<h1 align="center">Hi, I'm Yazalde 👋</h1>
 
 ## 💫 About Me:
 I am a motivated and detail-oriented Full-Stack Developer with a strong foundation in software engineering principles and practical experience gained through intensive bootcamp training and team-based projects.
