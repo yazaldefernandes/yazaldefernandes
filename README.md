@@ -34,3 +34,4 @@ I enjoy building end-to-end applications, working with REST APIs, and continuous
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yazalde-fernandes) 
+
