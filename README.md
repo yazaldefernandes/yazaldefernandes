@@ -11,19 +11,19 @@ I enjoy building end-to-end applications, working with REST APIs, and continuous
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,js&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java,js&theme=light)
 
 ### Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css&theme=light)
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql)
 
 ### APIs & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=spring,postman,git,github)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=spring,postman,git,github)
 
 
 
